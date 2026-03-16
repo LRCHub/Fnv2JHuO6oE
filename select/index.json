@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Wastelands",
+  "base_artist": "Linkin Park",
+  "createdAt": "2026-03-16T08:02:52.808779Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wasteland’s Caress (live)",
+      "artist": "Tristania",
+      "has_synced": true,
+      "path": "select/01_Wasteland’s_Caress_(live)_Tristania.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wasteland's Caress",
+      "artist": "Tristania",
+      "has_synced": true,
+      "path": "select/02_Wasteland's_Caress_Tristania.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wastelands",
+      "artist": "Avantasia",
+      "has_synced": false,
+      "path": "select/03_Wastelands_Avantasia.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wastelands",
+      "artist": "Hawkwind",
+      "has_synced": false,
+      "path": "select/04_Wastelands_Hawkwind.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wastelands of Sleep",
+      "artist": "Hawkwind",
+      "has_synced": false,
+      "path": "select/05_Wastelands_of_Sleep_Hawkwind.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wastelands",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/06_Wastelands_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wastelands",
+      "artist": "Blackguard",
+      "has_synced": true,
+      "path": "select/07_Wastelands_Blackguard.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Weeping Wastelands",
+      "artist": "Make Them Suffer",
+      "has_synced": true,
+      "path": "select/08_Weeping_Wastelands_Make_Them_Suffer.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Soldiers of the Wastelands",
+      "artist": "DragonForce",
+      "has_synced": true,
+      "path": "select/09_Soldiers_of_the_Wastelands_DragonForce.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wastelands (Acapella)",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/10_Wastelands_(Acapella)_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wastelands (Instrumental)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/11_Wastelands_(Instrumental)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wastelands",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/12_Wastelands_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Wastelands",
+      "artist": "Extol",
+      "has_synced": true,
+      "path": "select/13_Wastelands_Extol.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Wastelands - Extended Mix / 2010 Remaster",
+      "artist": "Midge Ure",
+      "has_synced": false,
+      "path": "select/14_Wastelands_-_Extended_Mix___2010_Remaster_Midge_Ure.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wastelands",
+      "artist": "Linkin Park",
+      "has_synced": false,
+      "path": "select/pl_01_Wastelands_Linkin_Park.txt"
+    }
+  ]
+}
